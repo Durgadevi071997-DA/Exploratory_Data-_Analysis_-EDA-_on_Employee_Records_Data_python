@@ -109,6 +109,7 @@ The heatmap indicates the relationship between numerical variables. Age and sala
 
 Observation:
 The pair plot provides a visual overview of relationships among numerical variables and confirms patterns identified in previous analyses.
+
 ## Summary of Findings
 
 The dataset contains employee demographic and salary information.
@@ -126,15 +127,11 @@ A positive relationship exists between age and salary.
 Salary outliers were identified through box plot analysis.
 
 Correlation analysis suggests that experience may contribute to higher salaries.
+
 ## Conclusion
 
 The Exploratory Data Analysis successfully identified important workforce trends and salary patterns within the Employee Records Dataset. The analysis revealed demographic diversity, salary variations, departmental distribution, and relationships between age and compensation. These insights can support workforce planning, compensation analysis, and strategic human resource management decisions.
-## Conclusion
 
-The Exploratory Data Analysis successfully identified important workforce trends and salary patterns within the Employee Records Dataset. The analysis revealed demographic diversity, salary variations, departmental distribution, and relationships between age and compensation. These insights can support workforce planning, compensation analysis, and strategic human resource management decisions.
-## Conclusion
-
-The Exploratory Data Analysis successfully identified important workforce trends and salary patterns within the Employee Records Dataset. The analysis revealed demographic diversity, salary variations, departmental distribution, and relationships between age and compensation. These insights can support workforce planning, compensation analysis, and strategic human resource management decisions.
 ## Screenshots
 
 <img width="517" height="321" alt="Screenshot 2026-06-22 120711" src="https://github.com/user-attachments/assets/bcd76490-2b2f-41dc-9e6c-d6310864679e" />
